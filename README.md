@@ -1,11 +1,19 @@
-### Welcome to Pete GitHub! Feel free to explore coding through my lenses
-
 <p align='center'>
+Welcome to Pete GitHub!
+</p>
+<p align='center'>
+Let me show you coding through my lenses 👀
+</p>
+<p align='center'>
+Feel free to contact me 😉
+</p>
+<p align='center'>
+    <a href='mailto:petrshirin91@gmail.com'>
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+   </a>   
    <a href="https://t.me/PetrShirin">
        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
    </a>
-<p align='center'>
-   📫 How to reach me: <a href='mailto:petrshirin91@gmail.com'>petrshirin91@gmail.com</a>
 </p>
 <!--
 **PeterShirin/PeterShirin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
